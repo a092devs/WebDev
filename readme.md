@@ -8,3 +8,4 @@
 - [Lecture 8](https://github.com/a092devs/WebDev/tree/master/lecture008) - Forms in HTML
 - [Lecture 9](https://github.com/a092devs/WebDev/tree/master/lecture009) - HTML Forms: Beginner to Pro
 - [Lecture 10](https://github.com/a092devs/WebDev/tree/master/lecture010) - Project 1: HTML Resume and Product Catalog
+- [Lecture 11](https://github.com/a092devs/WebDev/tree/master/lecture011) - Project 2: HTML Media
