@@ -7,3 +7,4 @@
 - [Lecture 7](https://github.com/a092devs/WebDev/tree/master/lecture007) - HTML Tables: Rows Columns and Advanced Attributes
 - [Lecture 8](https://github.com/a092devs/WebDev/tree/master/lecture008) - Forms in HTML
 - [Lecture 9](https://github.com/a092devs/WebDev/tree/master/lecture009) - HTML Forms: Beginner to Pro
+- [Lecture 10](https://github.com/a092devs/WebDev/tree/master/lecture010) - Project 1: HTML Resume and Product Catalog
