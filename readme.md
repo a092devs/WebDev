@@ -10,3 +10,4 @@
 - [Lecture 10](https://github.com/a092devs/WebDev/tree/master/lecture010) - Project 1: HTML Resume and Product Catalog
 - [Lecture 11](https://github.com/a092devs/WebDev/tree/master/lecture011) - Project 2: HTML Media
 - [Lecture 12](https://github.com/a092devs/WebDev/tree/master/lecture012) - SEO & Head Tag in HTML
+- [Lecture 13](https://github.com/a092devs/WebDev/tree/master/lecture013) - Mastering CSS: Inline, Internal and External Stylesheets
