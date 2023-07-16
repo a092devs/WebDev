@@ -11,3 +11,4 @@
 - [Lecture 11](https://github.com/a092devs/WebDev/tree/master/lecture011) - Project 2: HTML Media
 - [Lecture 12](https://github.com/a092devs/WebDev/tree/master/lecture012) - SEO & Head Tag in HTML
 - [Lecture 13](https://github.com/a092devs/WebDev/tree/master/lecture013) - Mastering CSS: Inline, Internal and External Stylesheets
+- [Lecture 14](https://github.com/a092devs/WebDev/tree/master/lecture014) - CSS Typography: Fonts, Colors and Developer Tools
